@@ -1,8 +1,3 @@
-"""
-Ozkan Sener
-ozkansener@gmail.com
-OOk met vier clusters
-"""
 from flask_restplus import Namespace, Resource, fields
 from multiprocessing.dummy import Pool as ThreadPool
 import requests
