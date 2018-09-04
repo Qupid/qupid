@@ -25,7 +25,7 @@ nltk==3.2.5
 numpy==1.14.3
 pandas==0.22.0
 Pillow==5.1.0
-pyquery==1.4.0
+pyquery
 python-dateutil==2.7.2
 pytz==2018.4
 PyYAML==3.12
