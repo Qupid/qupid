@@ -15,6 +15,7 @@ from sub import api
 
 import os
 #from run import app as application
+
 if __name__ == '__main__':
     application = Flask(__name__)
     api.init_app(application)
